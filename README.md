@@ -1,5 +1,5 @@
 
-# Resumos Git e GitHub
+# Resumo Git e GitHub
 
 Repositório para armazenar resumos sobre Git e GitHUb do curso de versionamento de código com Git e GitHub [Vídeo da aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da).
 
